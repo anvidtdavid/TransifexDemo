@@ -123,6 +123,9 @@
   <data name="GetStarted" xml:space="preserve">
     <value>Get started</value>
   </data>
+  <data name="HomePage" xml:space="preserve">
+    <value>Home page</value>
+  </data>
   <data name="WebHosting" xml:space="preserve">
     <value>Web Hosting</value>
   </data>

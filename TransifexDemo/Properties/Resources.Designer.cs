@@ -79,6 +79,15 @@ namespace TransifexDemo.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Home page.
+        /// </summary>
+        public static string HomePage {
+            get {
+                return ResourceManager.GetString("HomePage", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Web Hosting.
         /// </summary>
         public static string WebHosting {
