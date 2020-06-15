@@ -123,6 +123,11 @@
   <data name="GetStarted" xml:space="preserve">
     <value>Get started</value>
   </data>
+  <data name="GettingStartedNote" xml:space="preserve">
+    <value>ASP.NET Web API is a framework that makes it easy to build HTTP services that reach
+        a broad range of clients, including browsers and mobile devices. ASP.NET Web API
+        is an ideal platform for building RESTful applications on the .NET Framework.</value>
+  </data>
   <data name="HomePage" xml:space="preserve">
     <value>Home page</value>
   </data>
