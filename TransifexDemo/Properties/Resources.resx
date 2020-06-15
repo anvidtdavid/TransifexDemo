@@ -123,4 +123,7 @@
   <data name="GetStarted" xml:space="preserve">
     <value>Get started</value>
   </data>
+  <data name="WebHosting" xml:space="preserve">
+    <value>Web Hosting</value>
+  </data>
 </root>

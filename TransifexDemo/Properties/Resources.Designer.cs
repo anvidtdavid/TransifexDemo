@@ -77,5 +77,14 @@ namespace TransifexDemo.Properties {
                 return ResourceManager.GetString("GetStarted", resourceCulture);
             }
         }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Web Hosting.
+        /// </summary>
+        public static string WebHosting {
+            get {
+                return ResourceManager.GetString("WebHosting", resourceCulture);
+            }
+        }
     }
 }
