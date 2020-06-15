@@ -18,7 +18,7 @@ namespace TransifexDemo.Controllers
 
         public ActionResult Index()
         {
-            ViewBag.Title = "Home Page";
+            ViewBag.Title = Properties.Resources.HomePage;
             return View();
         }
     }
