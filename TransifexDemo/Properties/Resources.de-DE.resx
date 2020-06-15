@@ -123,10 +123,15 @@
   <data name="GetStarted" xml:space="preserve">
     <value>Loslegen</value>
   </data>
-  <data name="WebHosting" xml:space="preserve">
-    <value>Web-Hosting</value>
+  <data name="GettingStartedNote" xml:space="preserve">
+    <value>Die ASP.NET-Web-API ist ein Framework, mit dem sich leicht erreichbare HTTP-Dienste erstellen lassen
+eine breite Palette von Clients, einschließlich Browsern und Mobilgeräten. ASP.NET-Web-API
+ist eine ideale Plattform zum Erstellen von RESTful-Anwendungen auf .NET Framework.</value>
   </data>
   <data name="HomePage" xml:space="preserve">
     <value>Startseite</value>
+  </data>
+  <data name="WebHosting" xml:space="preserve">
+    <value>Web-Hosting</value>
   </data>
 </root>
