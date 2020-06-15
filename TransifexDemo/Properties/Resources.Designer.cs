@@ -61,6 +61,15 @@ namespace TransifexDemo.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Get more libraries.
+        /// </summary>
+        public static string GetMoreLibraries {
+            get {
+                return ResourceManager.GetString("GetMoreLibraries", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Get started.
         /// </summary>
         public static string GetStarted {

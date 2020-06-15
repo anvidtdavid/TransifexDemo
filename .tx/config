@@ -1,0 +1,10 @@
+[main]
+host = https://www.transifex.com
+
+[transifexdemo.resources-resx]
+file_filter = TransifexDemo/Properties/Resources.<lang>.resx
+minimum_perc = 0
+source_file = TransifexDemo/Properties/Resources.resx
+source_lang = en
+type = RESX
+
