@@ -126,4 +126,7 @@
   <data name="WebHosting" xml:space="preserve">
     <value>Web-Hosting</value>
   </data>
+  <data name="HomePage" xml:space="preserve">
+    <value>Startseite</value>
+  </data>
 </root>
