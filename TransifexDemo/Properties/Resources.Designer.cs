@@ -61,6 +61,15 @@ namespace TransifexDemo.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to ASP.NET.
+        /// </summary>
+        public static string ASPNET {
+            get {
+                return ResourceManager.GetString("ASPNET", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Get more libraries.
         /// </summary>
         public static string GetMoreLibraries {
