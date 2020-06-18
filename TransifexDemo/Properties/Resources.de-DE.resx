@@ -134,6 +134,9 @@ ist eine ideale Plattform zum Erstellen von RESTful-Anwendungen auf .NET Framewo
   <data name="HomePage" xml:space="preserve">
     <value>Startseite</value>
   </data>
+  <data name="LearnMore" xml:space="preserve">
+    <value>erfahren Sie mehr</value>
+  </data>
   <data name="WebHosting" xml:space="preserve">
     <value>Web-Hosting</value>
   </data>
