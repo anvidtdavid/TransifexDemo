@@ -134,6 +134,9 @@
   <data name="HomePage" xml:space="preserve">
     <value>Home page</value>
   </data>
+  <data name="LearnMore" xml:space="preserve">
+    <value>Learn more</value>
+  </data>
   <data name="WebHosting" xml:space="preserve">
     <value>Web Hosting</value>
   </data>
