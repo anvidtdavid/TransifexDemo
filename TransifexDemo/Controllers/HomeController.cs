@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Globalization;
 using System.Linq;
+using System.Resources;
 using System.Threading;
 using System.Web;
 using System.Web.Mvc;
@@ -18,7 +19,10 @@ namespace TransifexDemo.Controllers
 
         public ActionResult Index()
         {
-            ViewBag.Title = Properties.Resources.HomePage;
+            var resourceManager = new ResourceManager(typeof(Properties.Resources));
+            var homePageString = resourceManager.GetString("HomePagex", Thread.CurrentThread.CurrentCulture);
+
+            ViewBag.Title = homePageString;
             return View();
         }
     }
